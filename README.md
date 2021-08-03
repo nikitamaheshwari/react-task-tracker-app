@@ -1,3 +1,4 @@
+![tasktrackerng8](https://user-images.githubusercontent.com/16877356/128074318-fbb2df26-c680-4369-bbae-d7b82daf2808.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
